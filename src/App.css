@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700');
+
+body{
+    @apply bg-light-gray h-screen w-screen;
+}
+
+h3, p{
+    @apply font-sans;
+}
+
+#app{
+    @apply flex flex-col justify-center items-center h-full;
+}
