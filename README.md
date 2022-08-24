@@ -1,24 +1,43 @@
-# qr-code-card
+# QR Code Component Solution
 
-## Project setup
-```
-npm install
-```
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+- [My process](#my-process)
+    - [Built with](#built-with)
+    - [Useful resources](#useful-resources)
+- [Author](#author)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Overview
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screenshot
+
+![](./screenshot.png)
+
+### Links
+
+- Live Site URL: [Demo](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [VUE](https://vuejs.org/) - VUE framework
+- [Styled Components](https://tailwindcss.ru/) - For styles
+
+### Useful resources
+
+- [Google Fonts](https://fonts.google.com/)
+
+## Author
+
+- Frontend Mentor - [@IlyaChichkov](https://www.frontendmentor.io/profile/IlyaChichkov)
